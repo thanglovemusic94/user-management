@@ -1,0 +1,2 @@
+
+RewriteEngine on ErrorDocument 404   https://vanjose.000webhostapp.com/user-management/admin/modules/common/404.php
